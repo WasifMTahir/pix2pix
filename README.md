@@ -1,6 +1,7 @@
 # pix2pix
 Stick Figure to Human Body Generation using pix2pix
-***********Step 0***********
+
+# ***********Step 0***********
 MATLAB R2016a must be installed.
 Python must be installed.
 Pip must be installed.
@@ -53,7 +54,7 @@ Then run "concat.py"
 This will generate the relevant images in the "Concat" folder.
 These are the images you will use as input.
 
-# ***********Step 9************
+# ***********Step 9***********
 Run pix2pix.ipynb
 Replace the variables imgdir, traindir, testdir according ti your own image directories
 
